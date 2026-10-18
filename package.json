@@ -1,0 +1,28 @@
+{
+  "name": "lab5-advanced-javascript",
+  "version": "1.0.0",
+  "description": "Air University - Lab 5 Hands on Practice on Advanced JavaScript (CLO-1 GA-4)",
+  "main": "runner.js",
+  "scripts": {
+    "start": "node runner.js",
+    "test": "node runner.js",
+    "task1": "node task1_admissions.js",
+    "task2": "node task2_analytics.js",
+    "task3": "node task3_profile_update.js",
+    "task4": "node task4_user_hierarchy.js",
+    "task5": "node task5_modular_transcript/main.js",
+    "task6": "node task6_callbacks.js",
+    "task7": "node task7_promises.js",
+    "task8": "node task8_async_await.js"
+  },
+  "keywords": [
+    "javascript",
+    "advanced-js",
+    "node",
+    "promises",
+    "async-await",
+    "es-modules"
+  ],
+  "author": "CampusFlow Developer",
+  "license": "ISC"
+}
